@@ -60,4 +60,5 @@ background-color:#f9f9f9;
 .board{
   display: flex;
   flex-direction: row;
+  gap: 1rem;
 }
